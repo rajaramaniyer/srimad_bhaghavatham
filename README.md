@@ -5,6 +5,4 @@ This project is to collaborate with many people to get the text typed in differe
 
 Use only google input for typing.
 
-fork and create a pull request from time to time to merge back to main repository.
-
-Your pull request will be reviewed by scholars.
+Create a branch of your own. Update any file with slokas and raise pull request to merge it back to master.
